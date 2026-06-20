@@ -32,10 +32,10 @@
 
 ## 6. Drawing & Block Diagram (도면 및 블록도)
 
-<img src="fig1.png" width="700">
+<img src="fig1.jpg" width="500">
 
-<img src="fig2.png" width="700">
+<img src="fig2.jpg" width="500">
 
-<img src="fig3.png" width="700">
+<img src="fig3.jpg" width="500">
 
-<img src="fig4.png" width="700">
+<img src="fig4.jpg" width="500">
