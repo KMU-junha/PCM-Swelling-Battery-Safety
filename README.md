@@ -30,7 +30,7 @@
 
 ---
 
-## 6. Drawing & Block Diagram (도면 및 블록도)
+## 6. Drawing (도면)
 
 <img src="fig1.jpg" width="500">
 
